@@ -1,1 +1,1 @@
-# Calculator
+This Python calculator is a versatile tool for performing mathematical calculations, ranging from simple arithmetic operations to more advanced scientific functions. Its flexibility and ease of customization make it a popular choice for various platforms and use cases.
